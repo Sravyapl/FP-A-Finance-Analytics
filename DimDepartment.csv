@@ -1,0 +1,10 @@
+DepartmentKey,DepartmentName,DepartmentGroup,Region
+1,Sales,Revenue Generating,North America
+2,Marketing,Revenue Generating,Global
+3,Manufacturing,Operations,North America
+4,R&D,Operations,Global
+5,Customer Support,Operations,Global
+6,Finance,Corporate,Global
+7,Human Resources,Corporate,Global
+8,IT,Corporate,Global
+9,Executive,Corporate,Global

@@ -1,0 +1,9 @@
+ProductKey,ProductName,ProductCategory,ProductSubCategory
+1,Core Platform License,Software,Platform
+2,Premium Support Plan,Services,Support
+3,Analytics Add-on,Software,Add-on
+4,Implementation Services,Services,Professional Services
+5,Training Package,Services,Professional Services
+6,Hardware Appliance,Hardware,Devices
+7,Mobile Module,Software,Add-on
+8,Compliance Module,Software,Add-on

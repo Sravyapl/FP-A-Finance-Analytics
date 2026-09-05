@@ -1,0 +1,61 @@
+CustomerKey,CustomerName,CustomerSegment,Industry,Region,Country
+1,Customer 001,Small Business,Healthcare,Asia Pacific,Japan
+2,Customer 002,Mid-Market,Retail,Latin America,Brazil
+3,Customer 003,Enterprise,Financial Services,Asia Pacific,Singapore
+4,Customer 004,Enterprise,Retail,Latin America,Chile
+5,Customer 005,Enterprise,Technology,Latin America,Argentina
+6,Customer 006,Mid-Market,Education,North America,USA
+7,Customer 007,Mid-Market,Healthcare,North America,USA
+8,Customer 008,Enterprise,Technology,Asia Pacific,Australia
+9,Customer 009,Mid-Market,Education,Latin America,Chile
+10,Customer 010,Mid-Market,Manufacturing,Asia Pacific,Japan
+11,Customer 011,Small Business,Financial Services,Asia Pacific,India
+12,Customer 012,Enterprise,Manufacturing,North America,Mexico
+13,Customer 013,Small Business,Manufacturing,Latin America,Argentina
+14,Customer 014,Enterprise,Technology,Europe,UK
+15,Customer 015,Enterprise,Financial Services,Asia Pacific,Japan
+16,Customer 016,Enterprise,Manufacturing,Latin America,Chile
+17,Customer 017,Small Business,Retail,Latin America,Argentina
+18,Customer 018,Enterprise,Technology,Europe,Germany
+19,Customer 019,Small Business,Retail,Europe,UK
+20,Customer 020,Mid-Market,Technology,Latin America,Argentina
+21,Customer 021,Small Business,Education,Europe,France
+22,Customer 022,Enterprise,Financial Services,Asia Pacific,Japan
+23,Customer 023,Mid-Market,Financial Services,Latin America,Brazil
+24,Customer 024,Small Business,Technology,Latin America,Argentina
+25,Customer 025,Enterprise,Financial Services,Latin America,Brazil
+26,Customer 026,Small Business,Manufacturing,North America,USA
+27,Customer 027,Small Business,Manufacturing,Latin America,Chile
+28,Customer 028,Small Business,Healthcare,Latin America,Chile
+29,Customer 029,Mid-Market,Manufacturing,North America,Canada
+30,Customer 030,Small Business,Technology,Latin America,Chile
+31,Customer 031,Enterprise,Education,Europe,UK
+32,Customer 032,Small Business,Education,Latin America,Brazil
+33,Customer 033,Mid-Market,Financial Services,Asia Pacific,Singapore
+34,Customer 034,Small Business,Financial Services,Asia Pacific,Australia
+35,Customer 035,Small Business,Healthcare,Europe,France
+36,Customer 036,Mid-Market,Retail,North America,Mexico
+37,Customer 037,Enterprise,Manufacturing,Latin America,Brazil
+38,Customer 038,Mid-Market,Education,Latin America,Brazil
+39,Customer 039,Small Business,Healthcare,North America,Mexico
+40,Customer 040,Enterprise,Healthcare,North America,USA
+41,Customer 041,Small Business,Retail,Asia Pacific,Australia
+42,Customer 042,Small Business,Education,North America,Canada
+43,Customer 043,Small Business,Retail,Latin America,Argentina
+44,Customer 044,Mid-Market,Education,Asia Pacific,Japan
+45,Customer 045,Enterprise,Education,North America,USA
+46,Customer 046,Small Business,Education,North America,USA
+47,Customer 047,Mid-Market,Financial Services,Latin America,Chile
+48,Customer 048,Mid-Market,Healthcare,North America,Mexico
+49,Customer 049,Mid-Market,Manufacturing,Europe,Netherlands
+50,Customer 050,Enterprise,Retail,Latin America,Brazil
+51,Customer 051,Small Business,Healthcare,Latin America,Argentina
+52,Customer 052,Mid-Market,Manufacturing,North America,USA
+53,Customer 053,Small Business,Technology,Asia Pacific,India
+54,Customer 054,Mid-Market,Manufacturing,Europe,France
+55,Customer 055,Small Business,Financial Services,North America,Mexico
+56,Customer 056,Small Business,Technology,Latin America,Argentina
+57,Customer 057,Mid-Market,Manufacturing,Asia Pacific,Singapore
+58,Customer 058,Mid-Market,Technology,Asia Pacific,Australia
+59,Customer 059,Mid-Market,Manufacturing,Europe,Germany
+60,Customer 060,Enterprise,Financial Services,North America,Mexico
