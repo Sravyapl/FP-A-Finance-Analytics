@@ -28,10 +28,4 @@ Design rule: dynamic period-variance measures are scoped to Revenue, and only ap
 
 Power BI • DAX • Power Query
 
-## 📄 Documentation
 
-Full build documentation, including the DAX fixes above, is included as a Word document in this repo.
-
-## 🖼️ Screenshots
-
-*(add dashboard screenshots here)*
