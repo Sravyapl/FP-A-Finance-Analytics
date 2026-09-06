@@ -29,6 +29,6 @@ Design rule: dynamic period-variance measures are scoped to Revenue, and only ap
 Power BI • DAX • Power Query
 
 ## 📸 Screenshots ! 
-[Executive Overview](credit-card-analytics-pro-executive.png)
+[Executive Overview](fpa-finance-analytics-executive-summary.png)
 
 
